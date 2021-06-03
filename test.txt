@@ -1,1 +1,3 @@
 Hello World from master
+
+This line was added in second commit from master
