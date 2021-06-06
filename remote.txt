@@ -1,3 +1,5 @@
 Remote file undergone merge conflicts
 
 Added line 1
+
+Added line 2
